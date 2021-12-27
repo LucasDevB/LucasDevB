@@ -1,4 +1,4 @@
-<h1>Olá👋, meu nome é Lucas, tenho 16 anos e atualmente estou focado em desenvolvimento front-end, procurando por freelancers e estágios para adiquirir mais experiência na área.</h1>
+<h1>Olá👋, meu nome é Lucas e atualmente estou focado em desenvolvimento front-end, procurando por freelancers e estágios para adiquirir mais experiência na área.</h1>
 
 
 <br>
