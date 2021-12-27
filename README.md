@@ -19,6 +19,6 @@
 
 <ul>
   <li>Discord: GameStacks#2712</li>
-  <li>Linkedin: <a href="https://www.linkedin.com/in/lucas-barbosa-bb4014226">https://www.linkedin.com/in/lucas-barbosa</a></li>
+  <li>Linkedin: <a href="https://www.linkedin.com/in/lucasbdev257/">https://www.linkedin.com/in/lucas-barbosa</a></li>
   <li>Email: lucasbdev257@gmail.com</li>
 </ul>
