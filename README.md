@@ -10,7 +10,7 @@
   <li>💻Gosto de programar no tempo livre;</li>
   <li>❤️Minha linguagem favorita é o JavaScript;</li>
   <li>🎻Sei tocar violino.</li>
-  <li>⚙️Linguagens que estou utilizando no momento: Html, Css e JavaScript</li>
+  <li>⚙️Tecnologias que estou utilizando no momento: Html, Css e JavaScript</li>
 </ul>
 
 <br>
